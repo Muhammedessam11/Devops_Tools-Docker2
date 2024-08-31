@@ -1,0 +1,1 @@
+This docker-compose.yml build and run two services, the first one is to build the Dockerfile we already have in ./product directory which uses python docker image and run the application on PORT: 5001, while the second service is built using php:apache docker image to run the application on the webpage on PORT: 5000
